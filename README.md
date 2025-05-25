@@ -1,5 +1,7 @@
 <div align="center">
-<h1><kbd>🧩 BigDB</kbd></h1>
+  
+<h1>🧩 BigDB</h1>
+
 An extension for MIT App Inventor 2.<br>
 BigDB - Advanced key-value storage with TTL, metadata, multi-table support, encryption, and more <br> <a href="https://ai2.sarthakdev.in">My Other Extensions</a> <br> Built by <a href="www.sarthakdev.in"> Sarthak Gupta</a>
 </div>
